@@ -1,2 +1,2 @@
 # ConsoleAppCS1
-C# Basic COnsole Application
+C# Basic Console Application
